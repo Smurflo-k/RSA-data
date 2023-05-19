@@ -1,0 +1,10 @@
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.csproj.AssemblyReference.cache
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.Form1.resources
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.Properties.Resources.resources
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.csproj.GenerateResource.cache
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.csproj.CoreCompileInputs.cache
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\bin\Debug\RVA_Sol.exe.config
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\bin\Debug\RVA_Sol.exe
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\bin\Debug\RVA_Sol.pdb
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.exe
+C:\Users\SVD11\source\repos\RVA_Sol\RVA_Sol\obj\Debug\RVA_Sol.pdb
